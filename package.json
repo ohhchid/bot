@@ -1,0 +1,17 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cool boi ohhchid",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^12.5.3",
+    "js": "^0.1.0"
+  }
+}
